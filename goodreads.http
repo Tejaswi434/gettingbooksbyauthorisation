@@ -1,8 +1,7 @@
 ###
 
 GET http://localhost:3000/books/
-Authorization: Bearer {"jwtToken": eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhaHVsMTIzIiwiaWF0IjoxNjk1MDk3MTI0fQ.j9-WRRx7qbu2rzQuG208nGXeSuE020qks_ohBjqd8qc
-
+Authorization: Bearer: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhaHVsMTIzIiwiaWF0IjoxNjk1MDk4ODQ0fQ.FjgbdeGtCG4N7E7b0pLRiZK1jbICn9LEiFLqeiSDi44 
 ###
 
 POST http://localhost:3000/users/
